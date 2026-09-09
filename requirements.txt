@@ -1,0 +1,3 @@
+PyQt5>=5.15
+paho-mqtt>=2.0
+matplotlib>=3.7
