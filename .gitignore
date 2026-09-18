@@ -10,3 +10,7 @@ env/
 .idea/
 
 *.log
+
+~$*.pptx
+~$*.docx
+~$*.xlsx
